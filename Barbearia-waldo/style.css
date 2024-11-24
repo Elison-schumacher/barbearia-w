@@ -6,11 +6,19 @@ header {
   background: #111111;
   padding: 20px 0;
 }
+.color-produtos{
+  color: #e21b1b;
+
+}
+.body-contatos{
+  background: linear-gradient(#beacac, #7f997e , #96c0a5);
+}
 
 .caixa {
   position: relative;
   width: 850px;
   margin:  0 auto;
+ 
 }
 
 .logo {
